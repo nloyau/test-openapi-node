@@ -1,0 +1,24 @@
+{
+  "name": "test-openapi-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nloyau/test-openapi-node.git"
+  },
+  "author": "nloyau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nloyau/test-openapi-node/issues"
+  },
+  "homepage": "https://github.com/nloyau/test-openapi-node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+
+}
